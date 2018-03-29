@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Sports Quiz</string>
+
+    <!--Ques 1 b-->
+    <string name="ques1">Which was the 1st non Test playing country to beat India in an international match?</string>
+    <string name="a1">Canada</string>
+    <string name="b1">Sri Lanka</string>
+    <string name="c1">Zimbabwe</string>
+    <string name="d1">South Africa</string>
+
+    <!--Ques 2 b-->
+    <string name="ques2">Who was the first Indian to win the World Amateur Billiards title?</string>
+    <string name="a2">Geet Sethi</string>
+    <string name="b2">Wilson Jones</string>
+    <string name="c2">Manoj Kathori</string>
+    <string name="d2">P.T.Usha</string>
+
+    <!--Ques 3 c -->
+    <string name="ques3">Who is the first Indian woman to win an Asian Games gold in 400m run?</string>
+    <string name="a3">M.L.Valsamma</string>
+    <string name="b3">P.T.Usha</string>
+    <string name="c3">Kamaljit Sandhu</string>
+    <string name="d3">K.Malleshwari</string>
+
+    <!--Ques  4 b-->
+    <string name="ques4">In which sports is the participant called pugilist?</string>
+    <string name="a4">Sprinter</string>
+    <string name="b4">Boxing</string>
+    <string name="c4">Wrestling</string>
+    <string name="d4">Javelin throw</string>
+
+    <!--Ques 5 a,b-->
+    <string name="ques5">Which of the following Twenty-20 Cricket Rules are not correctly stated?</string>
+    <string name="a5">A bowler can bowl a max of 6 overs per innings</string>
+    <string name="b5">Fielding restrictions are applicable to the first 4 overs of innings</string>
+    <string name="c5">Each inning has a limit of 75 min. For every over bowled after that , the batting side gets extra 6 runs </string>
+    <string name="d5">If a batsman failed to reach the crease within 90 sec after the fall of wicket, the bowling side gets 5 penalty runs</string>
+
+    <!--Ques 6 d-->
+    <string name="ques6">The term \'Butterfly Stroke\' is referred to in which sport?</string>
+    <string name="a6">Wrestling</string>
+    <string name="b6">Volleyball</string>
+    <string name="c6">Tennis</string>
+    <string name="d6">Swimming</string>
+
+    <!--Ques 7 b-->
+    <string name="ques7">The number of players in each side in Water Polo is?</string>
+    <string name="a7">6</string>
+    <string name="b7">7</string>
+    <string name="c7">8</string>
+    <string name="d7">9</string>
+
+
+    <!--Ques 8 c-->
+    <string name="ques8">What is the maximum permitted length of cricket bat?</string>
+    <string name="a8">36\"</string>
+    <string name="b8">37\"</string>
+    <string name="c8">38\"</string>
+    <string name="d8">39\"</string>
+
+    <!--Ques 9 a-->
+    <string name="ques9">Green Park Stadium is in  ________</string>
+    <string name="a9">Kanpur</string>
+    <string name="b9">Chandigarh</string>
+    <string name="c9">Bengaluru</string>
+    <string name="d9">Dehradun</string>
+
+
+    <!--Ques 10-->
+    <string name="ques10">What is the national sports of India?</string>
+
+</resources>
