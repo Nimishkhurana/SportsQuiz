@@ -9,14 +9,14 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Toast;
-public class InfoPage extends AppCompatActivity {
+public class QuizActivity extends AppCompatActivity {
 
     int score;
     String name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_info_page);
+        setContentView(R.layout.activity_quiz);
         Intent intent = getIntent();
         name = intent.getStringExtra("message");
     }

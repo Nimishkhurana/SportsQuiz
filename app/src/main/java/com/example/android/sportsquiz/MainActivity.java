@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void toInfoPage(View view) {
-        Intent intent = new Intent(this, InfoPage.class);
+        Intent intent = new Intent(this, QuizActivity.class);
         EditText editText = (EditText) findViewById(editText3);
         String message = editText.getText().toString();
         intent.putExtra("message", message);
